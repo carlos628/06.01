@@ -8,18 +8,26 @@ body {
     min-height: 500px;
     width: 700px;
     margin: auto;
+    
 }
 
 #cabecalho {
     height: 100px;
     background-color: #228b22;
+    
+}
+#cabecalho H1{
+  margin:0;
+  text-align: center;
+  padding-top: 30PX;
+    
 }
 
 #menu {
     width: 20%;
     background-color: black;
     height: 400px;
-    color: #b8860b;
+    color: #00cccc;
     float: left;
 }
 
